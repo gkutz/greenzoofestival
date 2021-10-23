@@ -2,11 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-header {
+#header_wrap.inner {
  background-color: rgb(12, 41, 9);
 }
-#header_wrap {
- display: block;
+#header_wrap.outer {
  background-color: rgb(12, 41, 9);
 }
 #footer_wrap {
