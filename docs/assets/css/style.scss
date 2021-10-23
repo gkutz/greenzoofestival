@@ -2,11 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-div.outer {
+div .outer {
  background-image: url("MainBannerGreenZoo.jpg");
 }
 header.inner {
  background-image: url("MainBannerGreenZoo.jpg");
+}
+#forkme_banner {
+ background-color: rgb(12, 41, 9);
 }
 #footer_wrap {
  display: block;
