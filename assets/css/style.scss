@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-h2 {
-  font-style: italic;
+#header_wrap {
+ background-color: green;  
 }
 .page-header {
     background: #191c20;
