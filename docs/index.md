@@ -14,8 +14,8 @@ It turned out that several local Kraków-based bands wanted to open for Basia Bu
 
 The concerts in each festival edition are held at various Kraków venues including local pubs and clubs. The venue locations where concerts take place change from year to year. However, the festival concerts always take place in at least two separate venues each year, as shown in the table below. In 2016, before the summer Green Zoo Festival edition, a winter edition of the festival also took place at three separate locations, between January 30 and February 4. Due to the pandemic the 2020 edition of the festival was not held. During 2021, a fall edition of the festival was held.
 
-| Venue        | Held concerts in edition     | Address | Additional information |
-|--------------|-----------|------------|------------|
+| **Venue**    | **Held concerts in**    | **Address** | **Additional info** |
+|:-------------|:----------|:-----------|:-----------|
 | [Klub RE](https://www.facebook.com/klubre/) | 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019, 2021 fall  | ul. św. Krzyża 4 | |
 | [Betel Klub](https://www.facebook.com/betelpub/) | 2011, 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019  | pl. Szczepański 3  |  |
 | [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | 2011, 2013 | 2011, 2013 | No longer open at this location |
