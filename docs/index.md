@@ -64,7 +64,7 @@ Xara Dion (CA), MY DISCO (AU), [The Space Lady](https://en.wikipedia.org/wiki/Th
 The festival was not held due to the pandemic.
 
 #### 2021 Fall
-[Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [The Underground Youth](https://en.everybodywiki.com/The_Underground_Youth) (UK), Komety (PL), Kaseciarz (PL), Oxford Drama (PL), Hugayz (PL), Strangers In My House (PL), Angry Sad Boys (PL), The Band of the Endless Noise (PL), Kill Your Boyfriend (PL) PL), Angry Sad Boys (PL), The Band of the Endless Noise (PL), Kill Your Boyfriend (PL) 
+[Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [The Underground Youth](https://en.everybodywiki.com/The_Underground_Youth) (UK), Komety (PL), Kaseciarz (PL), Oxford Drama (PL), Hugayz (PL), Strangers In My House (PL), Angry Sad Boys (PL), The Band of the Endless Noise (PL), Kill Your Boyfriend (PL), Angry Sad Boys (PL), The Band of the Endless Noise (PL), Kill Your Boyfriend (PL) 
 
 ### More Information
 
