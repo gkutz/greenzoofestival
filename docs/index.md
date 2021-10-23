@@ -16,15 +16,15 @@ The concerts in each festival edition are held at various Kraków venues includi
 
 | Venue        | Held concerts in edition     | Address | Additional information |
 |--------------|-----------|------------|------------|
-| [Klub RE](https://www.facebook.com/klubre/) | 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019, 2021 fall  | ul. św. Krzy?a 4 | |
+| [Klub RE](https://www.facebook.com/klubre/) | 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019, 2021 fall  | ul. św. Krzyża 4 | |
 | [Betel Klub](https://www.facebook.com/betelpub/) | 2011, 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019  | pl. Szczepański 3  |  |
-| [SDK Warehouse](https://www.facebook.com/stk47warehouse/) | 2019 | ul. Dekerta 47 | |
-| [ZetPeTe](https://www.facebook.com/zetpete.krk/) | 2018 | ul. Dolnych Młynów 10 | No longer open |
+| [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | 2011, 2013 | 2011, 2013 | No longer open at this location |
 | [Szpitalna 1](https://www.facebook.com/szpitalna1/) | 2016, 2016 winter | ul. Szpitalna 1 | |
 | [Bomba na Placu](https://www.facebook.com/bombanaplacu/) | 2012, 2014 | pl. Szczepański 2 | No longer open |
-| [Klub Pi?kny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | 2011, 2013 | 2011, 2013 | No longer open at this location |
-| [Rozrywki Trzy](https://www.facebook.com/rozrywki.trzy/) | 2012 | ul. Mikołajska 3 | No longer open |
 | [Kotkarola](https://www.facebook.com/pages/category/Country-Club---Clubhouse/KOTKAROLA-361891623830938/) | 2012, 2013 | Rynek Gł. 6 | No longer open |
+| [SDK Warehouse](https://www.facebook.com/stk47warehouse/) | 2019 | ul. Dekerta 47 | |
+| [ZetPeTe](https://www.facebook.com/zetpete.krk/) | 2018 | ul. Dolnych Młynów 10 | No longer open |
+| [Rozrywki Trzy](https://www.facebook.com/rozrywki.trzy/) | 2012 | ul. Mikołajska 3 | No longer open |
 
 ### Artists
 
@@ -43,7 +43,7 @@ The following musicians performed at each Green Zoo Festival edition (the countr
 Circuit Des Yeux (CA), Gelbart (DE), Zentralheizung Of Death Des Todes (DE), Mathematique (CA), Semantic Punk (PL), Mikrokolektyw (PL), Wild Books (PL), Inqbator (PL), The Kurws (PL), Pole (PL), Robert Piernikowski (PL)
 
 #### 2015
-[Screaming Females](https://en.wikipedia.org/wiki/Screaming_Females) (US), [Buke and Gase](https://en.wikipedia.org/wiki/Buke_and_Gase) (US), [Zs](https://en.wikipedia.org/wiki/Zs_(band)) (US), Doug Tuttle (US), Dinner (DK), Kaseciarz (PL), Kubaterra (PL), Z?ota Jesie? (PL), Ukryte Zalety Systemu (PL), Wilhelm Bras (PL), Heroiny (PL)
+[Screaming Females](https://en.wikipedia.org/wiki/Screaming_Females) (US), [Buke and Gase](https://en.wikipedia.org/wiki/Buke_and_Gase) (US), [Zs](https://en.wikipedia.org/wiki/Zs_(band)) (US), Doug Tuttle (US), Dinner (DK), Kaseciarz (PL), Kubaterra (PL), Złota Jesień (PL), Ukryte Zalety Systemu (PL), Wilhelm Bras (PL), Heroiny (PL)
 
 #### 2016 Winter
 [Jerusalem In My Heart](https://en.wikipedia.org/wiki/Jerusalem_In_My_Heart) (CA), [Ben Caplan](https://en.wikipedia.org/wiki/Ben_Caplan) (CA), Yung (DK)
@@ -65,3 +65,10 @@ The festival was not held due to the pandemic.
 
 #### 2021 Fall
 [Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [The Underground Youth](https://en.everybodywiki.com/The_Underground_Youth) (UK), Komety (PL), Kaseciarz (PL), Oxford Drama (PL), Hugayz (PL), Strangers In My House (PL), Angry Sad Boys (PL), The Band of the Endless Noise (PL), Kill Your Boyfriend (PL) PL), Angry Sad Boys (PL), The Band of the Endless Noise (PL), Kill Your Boyfriend (PL) 
+
+### More Information
+
+ - [Official Green Zoo Festival Site](https://greenzoofestival.pl/en/)
+ - [Green Zoo Festival on Facebook](https://www.facebook.com/GreenZOOFestival/)
+ - [Green Zoo Festival on Instagram](https://www.instagram.com/greenzoofestival/)
+ - [Send Email](mailto:cyprian@frontrowheroes.com)
