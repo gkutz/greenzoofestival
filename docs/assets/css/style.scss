@@ -2,7 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-div#header_wrap {
+div.outer {
+ background-color: rgb(12, 41, 9);
+}
+header.inner {
  background-color: rgb(12, 41, 9);
 }
 #footer_wrap {
