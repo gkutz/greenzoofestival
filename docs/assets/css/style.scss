@@ -2,8 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-div .outer {
- background-image: url("MainBannerGreenZoo.jpg");
+#header_wrap {
+ display: block;
+ background-color: rgb(12, 41, 9);
 }
 header.inner {
  background-image: url("MainBannerGreenZoo.jpg");
