@@ -4,7 +4,7 @@ The organizers of this festival are the concert promoters from [Front Row Heroes
 
 ## Green Zoo Festival 2021
 
-![Green Zoo Festival 2021 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2021Medium.jpg  "Green Zoo Festival 2021 schedule")
+![Green Zoo Festival 2021 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2021Small.jpg  "Green Zoo Festival 2021 schedule")
 
 ## History
 
