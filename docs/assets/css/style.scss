@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+header.inner {
+ background-image: url("MainBannerGreenZoo.jpg");
+}
+thead {
+ background-color: rgb(12, 41, 9);
+}
 #forkme_banner {
  background-color: rgb(12, 41, 9);
 }
