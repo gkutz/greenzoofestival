@@ -4,7 +4,8 @@ The organizers of this festival are the concert promoters from [Front Row Heroes
 
 ## Green Zoo Festival 2021
 
-![Green Zoo Festival 2021 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2021Small.jpg  "Green Zoo Festival 2021 schedule")
+![Green Zoo Festival 2021 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2021Small.jpg  "Green Zoo Festival 2021 schedule")<br />
+**Note:** For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/).
 
 ## History
 
@@ -79,4 +80,5 @@ The following musicians performed at each Green Zoo Festival edition (the countr
  - [Official Green Zoo Festival Site](https://greenzoofestival.pl/en/)
  - [Green Zoo Festival on Facebook](https://www.facebook.com/GreenZOOFestival/)
  - [Green Zoo Festival on Instagram](https://www.instagram.com/greenzoofestival/)
+ - [Green Zoo Festival community](https://greenzoofestival.pl/spolecznosc/)
  - [Contact Front Row Heroes](mailto:cyprian@frontrowheroes.com)
