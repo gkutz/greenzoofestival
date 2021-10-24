@@ -34,7 +34,7 @@ The concerts in each festival edition are held at various Kraków venues includi
 The following musicians performed at each Green Zoo Festival edition (the country of origin of the artist is shown in brackets):
 
 ### 2011
-[Basia Bulat](https://en.wikipedia.org/wiki/Basia_Bulat) (CA), [Vladimirska](https://vladimirska.bandcamp.com/) n(PL), [New Century Classics](https://newcenturyclassics.bandcamp.com/) (PL), [Point Reyes](https://wetnursepointreyes.bandcamp.com/) (US), Visionary Hours (PL), [Lights Dim](https://lightsdim.bandcamp.com/) (PL), Hayden Berry (PL)
+[Basia Bulat](https://en.wikipedia.org/wiki/Basia_Bulat) (CA), [Vladimirska](https://vladimirska.bandcamp.com/) (PL), [New Century Classics](https://newcenturyclassics.bandcamp.com/) (PL), [Point Reyes](https://wetnursepointreyes.bandcamp.com/) (US), Visionary Hours (PL), [Lights Dim](https://lightsdim.bandcamp.com/) (PL), Hayden Berry (PL)
 
 ### 2012
 [Moonface](https://en.wikipedia.org/wiki/Moonface_(band)) (CA), [Ben Caplan](https://en.wikipedia.org/wiki/Ben_Caplan) (CA), [Molly Nilsson](https://en.wikipedia.org/wiki/Molly_Nilsson) (SE), [Lower Dens](https://en.wikipedia.org/wiki/Lower_Dens) (US), [Katie Moore](https://en.wikipedia.org/wiki/Katie_Moore) (CA), [Socalled](https://socalledmtl.bandcamp.com/) (CA), [VUK](https://vukmusic.bandcamp.com/) (FI), [Jason Urick](https://jasonurick.bandcamp.com/) (US), [Swearing at Motorists](https://swearingatmotorists.bandcamp.com/) (US), Yesterday Shop (DE), [Tarwater](https://tarwater.bandcamp.com/) (DE), [Coldair](https://coldair.bandcamp.com/) (PL)
