@@ -2,6 +2,8 @@
 
 The organizers of this festival are the concert promoters from [Front Row Heroes](https://frontrowheroes.com/en/about-us/) based in Poland. Green Zoo Festival also has direct ties with [Pop Montreal Festival](https://popmontreal.com/) and has hosted many musicians that were initially showcased at this annual Canadian festival. In addition to the music, Green Zoo Festival provides means of promotion for upcoming local musicians, includes workshops dedicated to independent music, and is also associated with the development of volunteer programs
 
+![Green Zoo Festival 2021 schedule](docs/assets/GreenZooFestival2021.jpg "Green Zoo Festival 2021 schedule)
+
 ## History
 
 The first edition of Green Zoo Festival was a one day event and was held on June 25, 2011 in [Kraków](https://en.wikipedia.org/wiki/Krak%C3%B3w) at the Betel Klub and Klub Piękny Pies venues. The idea of the festival was created spontaneously to help accommodate a concert by the Canadian songwriter [Basia Bulat](https://en.wikipedia.org/wiki/Basia_Bulat), as organized by the music promoters from Front Row Heroes. The day before [Basia Bulat](https://en.wikipedia.org/wiki/Basia_Bulat) performed in Kraków, at the invitation of [Arcade Fire](https://en.wikipedia.org/wiki/Arcade_Fire), she supported their very first concert in Poland at the [Arena COS Torwar](https://en.wikipedia.org/wiki/Torwar_Hall) music venue in Warsaw.
