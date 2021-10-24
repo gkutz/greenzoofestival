@@ -69,7 +69,7 @@ The following musicians performed at each Green Zoo Festival edition (the countr
 **Photos:** [Black Lips](https://photos.app.goo.gl/6W71weYzynFxnJgv7), [Spencer Krug](https://photos.app.goo.gl/CZKxxqzaXTpYcQjJ8), [Tamaryn](https://photos.app.goo.gl/L9WShrKu4zAc7gLr7), [Cold Showers](https://photos.app.goo.gl/43YwrsT1tq6pL1nA8), [Xeno & Oaklander](https://photos.app.goo.gl/yAHaaJv4NBj7LMSu5), [Cocaine Piss](https://photos.app.goo.gl/S6wreB8yPtmRZA4V9), [Crying High](https://photos.app.goo.gl/5Z3fd1TaD14RSWXn7), [Rycerzyki](https://photos.app.goo.gl/XrZ6FeW8ptrCNTEA8) 
 
 ### 2020 Stream Edition
-[Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [Rycerzyki](https://rycerzyki.bandcamp.com/) (PL), Melty (PL), Akpatok (BLR/PL)<br /><br />
+[Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [Rycerzyki](https://rycerzyki.bandcamp.com/) (PL), [Melty](https://meltygaze.bandcamp.com/releases) (PL), [Akpatok](https://akpatok.bandcamp.com/) (BLR/PL)<br /><br />
 **Photos:** [Trupa Trupa](https://photos.app.goo.gl/6TcRRBymb7XDx4kF8), [Rycerzyki](https://photos.app.goo.gl/koHoMCBS36rTV7eb8), [Melty](https://photos.app.goo.gl/cdLrkPiN1CtjMNbK9), [Akpatok](https://photos.app.goo.gl/LyijjqFbaYtrwGrd9)
 
 ### 2021 Fall
