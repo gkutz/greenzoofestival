@@ -20,7 +20,7 @@ The concerts in each festival edition are held at various Kraków venues includi
 |:-------------|:----------|:-----------|:-----------|
 | [Klub RE](https://www.facebook.com/klubre/) | 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019, 2020, 2021 fall  | ul. św. Krzyża 4 | |
 | [Betel Klub](https://www.facebook.com/betelpub/) | 2011, 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019  | pl. Szczepański 3  |  |
-| [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | 2011, 2013 | 2011, 2013 | No longer open at this location |
+| [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | 2011, 2013 | ul. Sławkowska 6a | No longer open at this location |
 | [Szpitalna 1](https://www.facebook.com/szpitalna1/) | 2016, 2016 winter | ul. Szpitalna 1 | |
 | [Bomba na Placu](https://www.facebook.com/bombanaplacu/) | 2012, 2014 | pl. Szczepański 2 | No longer open |
 | [Kotkarola](https://www.facebook.com/pages/category/Country-Club---Clubhouse/KOTKAROLA-361891623830938/) | 2012, 2013 | Rynek Gł. 6 | No longer open |
