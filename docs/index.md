@@ -11,7 +11,7 @@ The organizers of this festival are the concert promoters from [Front Row Heroes
 
 The first edition of Green Zoo Festival was a one day event and was held on June 25, 2011 in [Kraków](https://en.wikipedia.org/wiki/Krak%C3%B3w) at the Betel Klub and Klub Piękny Pies venues. The idea of the festival was created spontaneously to help accommodate a concert by the Canadian songwriter [Basia Bulat](https://en.wikipedia.org/wiki/Basia_Bulat), as organized by the music promoters from Front Row Heroes. The day before [Basia Bulat](https://en.wikipedia.org/wiki/Basia_Bulat) performed in Kraków, at the invitation of [Arcade Fire](https://en.wikipedia.org/wiki/Arcade_Fire), she supported their very first concert in Poland at the [Arena COS Torwar](https://en.wikipedia.org/wiki/Torwar_Hall) music venue in Warsaw.
 
-It turned out that several local Kraków-based bands wanted to open for Basia Bulat's concert. This gave the festival organizers a chance to initiate a low profile urban music festival, loosely modeled on showcase festivals in Canada, USA, and elsewhere, where many bands play simultaneously in several different clubs and venues. The festival name, "**Green ZOO**", originates from the title of the hit song performed by the Polish singer from the 1960s, Ludmiła Jakubczak, called "[In the Green Zoo](https://youtu.be/hqNlQLC1xNg)" and has been permanently included in Basia Bulat's setlist during her concerts.
+It turned out that several local Kraków-based bands wanted to open for Basia Bulat's concert. This gave the festival organizers a chance to initiate a low profile urban music festival, loosely modeled on showcase festivals in Canada, USA, and elsewhere, where many bands play simultaneously in several different clubs and venues. The festival name, "**Green ZOO**", originates from the title of the hit song performed by the Polish singer from the 1960s, Ludmiła Jakubczak, called "[In the Green Zoo](https://youtu.be/hqNlQLC1xNg)". The song has been permanently included in Basia Bulat's setlist during her concerts.
 
 ## Venues
 
@@ -77,7 +77,7 @@ The following musicians performed at each Green Zoo Festival edition (the countr
 
 ## More Information
 
- - [Official Green Zoo Festival Site](https://greenzoofestival.pl/en/)
+ - [Green Zoo Festival official site](https://greenzoofestival.pl/en/)
  - [Green Zoo Festival on Facebook](https://www.facebook.com/GreenZOOFestival/)
  - [Green Zoo Festival on Instagram](https://www.instagram.com/greenzoofestival/)
  - [Green Zoo Festival community](https://greenzoofestival.pl/spolecznosc/)
