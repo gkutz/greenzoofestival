@@ -80,5 +80,5 @@ The following musicians performed at each Green Zoo Festival edition (the countr
  - [Green Zoo Festival official site](https://greenzoofestival.pl/en/)
  - [Green Zoo Festival on Facebook](https://www.facebook.com/GreenZOOFestival/)
  - [Green Zoo Festival on Instagram](https://www.instagram.com/greenzoofestival/)
- - [Green Zoo Festival community](https://greenzoofestival.pl/spolecznosc/)
+ - [Green Zoo community](https://greenzoofestival.pl/spolecznosc/)
  - [Contact Front Row Heroes](mailto:cyprian@frontrowheroes.com)
