@@ -2,9 +2,9 @@
 
 The organizers of this festival are the concert promoters from [Front Row Heroes](https://frontrowheroes.com/en/about-us/) based in Poland. Green Zoo Festival also has direct ties with [POP Montreal Festival](https://popmontreal.com/) and has hosted many musicians that were initially showcased at this annual Canadian festival. In addition to the music, Green Zoo Festival provides means of promotion for upcoming local musicians, includes workshops dedicated to independent music, and is also associated with the development of volunteer programs
 
-## Green Zoo Festival 2021
+## Green Zoo Festival 2022
 
-![Green Zoo Festival 2021 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2021Small.jpg  "Green Zoo Festival 2021 schedule")<br />
+![Green Zoo Festival 2022 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2022Small.jpg  "Green Zoo Festival 2022 schedule")<br />
 **Note:** For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/).
 
 ## History
@@ -19,7 +19,7 @@ The concerts in each festival edition are held at various Kraków venues includi
 
 | **Venue**    | **Held concerts in**    | **Address** | **More info** |
 |:-------------|:----------|:-----------|:-----------|
-| [Klub RE](https://www.facebook.com/klubre/) | 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019, 2020, 2021 fall  | ul. św. Krzyża 4 | |
+| [Klub RE](https://www.facebook.com/klubre/) | 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019, 2020, 2021 fall, 2022  | ul. św. Krzyża 4 | |
 | [Betel Klub](https://www.facebook.com/betelpub/) | 2011, 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019  | pl. Szczepański 3  |  |
 | [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | 2011, 2013 | ul. Sławkowska 6a | No longer open at this location |
 | [Szpitalna 1](https://www.facebook.com/szpitalna1/) | 2016, 2016 winter | ul. Szpitalna 1 | |
@@ -75,6 +75,9 @@ The following musicians performed at each Green Zoo Festival edition (the countr
 ### 2021 Fall
 [Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [The Underground Youth](https://en.everybodywiki.com/The_Underground_Youth) (UK), [Kill Your Boyfriend](https://killyourboyfriend.bandcamp.com/) (IT), [Komety](https://komety.bandcamp.com/) (PL), [Kaseciarz](https://kaseciarz.bandcamp.com/) (PL), [Oxford Drama](https://oxforddrama.bandcamp.com/) (PL), [Hugayz](https://plusztapes.bandcamp.com/album/hugz-and-kissez) (PL), [Strangers In My House](https://strangersinmyhouse.bandcamp.com/) (PL), Angry Sad Boys (PL), [The Band of the Endless Noise](https://bandlessnoise.bandcamp.com/) (PL), [Why Bother?](https://whybother666.bandcamp.com/album/s-t) (PL)<br /><br />
 **Photos:** [Trupa Trupa](https://photos.app.goo.gl/XayxY2LpeJCGomgK7), [The Underground Youth](https://photos.app.goo.gl/Cup7cnroUJVGdnN98), [Kill Your Boyfriend](https://photos.app.goo.gl/RERoGGSaw8wcYsN47), [Oxford Drama](https://photos.app.goo.gl/kN2PAkLZojNq2thD8), [Strangers In My House](https://photos.app.goo.gl/MMfHDUHN1cGYJqrb7)
+
+### 2022
+[Makthaverskan](https://makthaverskan.bandcamp.com/music) (NL), [Ecstatic Vision](https://www.heavypsychsounds.com/epk/hps228EVEMN/) (US), [Wczasy](https://wczasy.bandcamp.com/releases) (PL), [Kwiaty](https://zespolkwiaty.bandcamp.com/) (PL), [FORMY Planet](https://formyplanet.bandcamp.com/) (PL), [1984](https://www.facebook.com/zespol1984) (PL), [Acid Sitter](https://acidsitter.bandcamp.com/) (PL), [Sneaky Jesus](https://sneakyjesus.bandcamp.com/) (PL), [Gaijin Blues](https://gaijinblues.bandcamp.com/) (PL), [Nac/Hut Report](https://crunchyhumanchildren.bandcamp.com/album/dom-1919) (IT/PL), [Król Słońce](https://www.facebook.com/krolslonce666/) (PL), [See Saw](https://seasaw.bandcamp.com/releases) (PL), DJ Nebaz (PL)
 
 ## More Information
 
