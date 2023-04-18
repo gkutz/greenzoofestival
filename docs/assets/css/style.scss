@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 #header_wrap {
- background: rgb(12, 41, 9) url("MainBannerGreenZoo.jpg") no-repeat scroll center;
+ background: rgb(32, 104, 24) url("MainBannerGreenZoo.jpg") no-repeat scroll center;
 }
 thead th {
- background-color: rgb(12, 41, 9);
+ background-color: rgb(32, 104, 24);
 }
 table tr:nth-child(odd) {
   background-color: white;
@@ -15,9 +15,9 @@ table tr:nth-child(even) {
   background-color: rgb(242,242,242);
 }
 #forkme_banner {
- background-color: rgb(12, 41, 9);
+ background-color: rgb(32, 104, 24);
 }
 #footer_wrap {
  display: block;
- background-color: rgb(12, 41, 9);
+ background-color: rgb(32, 104, 24);
 }
