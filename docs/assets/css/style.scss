@@ -8,6 +8,12 @@
 thead th {
  background-color: rgb(12, 41, 9);
 }
+table tr:nth-child(odd) {
+  background-color: white;
+}
+table tr:nth-child(even) {
+  background-color: lightgray;
+}
 #forkme_banner {
  background-color: rgb(12, 41, 9);
 }
