@@ -19,15 +19,15 @@ The concerts in each edition of the festival are held at various Kraków venues,
 
 | **Venue**    | **Held concerts in**    | **Address** | **More info** |
 |:-------------|:----------|:-----------|:-----------|
-| [Klub RE](https://www.facebook.com/klubre/) | 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019, 2020, 2021 fall, 2022, 2023  | ul. św. Krzyża 4 | |
-| [Betel Klub](https://www.facebook.com/betelpub/) | 2011, 2012, 2013, 2014, 2015, 2016 winter, 2016, 2017, 2018, 2019  | pl. Szczepański 3  |  |
-| [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | 2011, 2013 | ul. Sławkowska 6a | No longer open at this location |
-| [Szpitalna 1](https://www.facebook.com/szpitalna1/) | 2016, 2016 winter | ul. Szpitalna 1 | |
-| [Bomba na Placu](https://www.facebook.com/bombanaplacu/) | 2012, 2014 | pl. Szczepański 2 | No longer open |
-| [Kotkarola](https://www.facebook.com/pages/category/Country-Club---Clubhouse/KOTKAROLA-361891623830938/) | 2012, 2013 | Rynek Gł. 6 | No longer open |
-| [SDK Warehouse](https://www.facebook.com/stk47warehouse/) | 2019 | ul. Dekerta 47 | |
-| [ZetPeTe](https://www.facebook.com/zetpete.krk/) | 2018 | ul. Dolnych Młynów 10 | No longer open |
-| [Rozrywki Trzy](https://www.facebook.com/rozrywki.trzy/) | 2012 | ul. Mikołajska 3 | No longer open |
+| [Klub RE](https://www.facebook.com/klubre/) | _2012_, _2013_, _2014_, _2015_, _2016_ (winter), _2016_, _2017_, _2018_, _2019_, _2020_, _2021_ (fall), _2022_, _2023_  | ul. św. Krzyża 4 | |
+| [Betel Klub](https://www.facebook.com/betelpub/) | _2011_, _2012_, _2013_, _2014_, _2015_, _2016_ (winter), _2016_, _2017_, _2018_, _2019_  | pl. Szczepański 3  |  |
+| [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | _2011_, _2013_ | ul. Sławkowska 6a | No longer open at this location |
+| [Szpitalna 1](https://www.facebook.com/szpitalna1/) | _2016_, _2016_ (winter) | ul. Szpitalna 1 | |
+| [Bomba na Placu](https://www.facebook.com/bombanaplacu/) | _2012_, _2014_ | pl. Szczepański 2 | No longer open |
+| [Kotkarola](https://www.facebook.com/pages/category/Country-Club---Clubhouse/KOTKAROLA-361891623830938/) | _2012_, _2013_ | Rynek Gł. 6 | No longer open |
+| [SDK Warehouse](https://www.facebook.com/stk47warehouse/) | _2019_ | ul. Dekerta 47 | |
+| [ZetPeTe](https://www.facebook.com/zetpete.krk/) | _2018_ | ul. Dolnych Młynów 10 | No longer open |
+| [Rozrywki Trzy](https://www.facebook.com/rozrywki.trzy/) | _2012_ | ul. Mikołajska 3 | No longer open |
 
 ## Artists
 
@@ -48,7 +48,7 @@ The following table lists the bands and musicians who performed at each edition 
 | _2020_ (stream edition) | [Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [Rycerzyki](https://rycerzyki.bandcamp.com/) (PL), [Melty](https://meltygaze.bandcamp.com/releases) (PL), [Akpatok](https://akpatok.bandcamp.com/) (BLR/PL) | [Trupa Trupa](https://photos.app.goo.gl/6TcRRBymb7XDx4kF8), [Rycerzyki](https://photos.app.goo.gl/koHoMCBS36rTV7eb8), [Melty](https://photos.app.goo.gl/cdLrkPiN1CtjMNbK9), [Akpatok](https://photos.app.goo.gl/LyijjqFbaYtrwGrd9) |
 | _2021_<br />(fall) | [Trupa Trupa](https://en.wikipedia.org/wiki/Trupa_Trupa) (PL), [The Underground Youth](https://en.everybodywiki.com/The_Underground_Youth) (UK), [Kill Your Boyfriend](https://killyourboyfriend.bandcamp.com/) (IT), [Komety](https://komety.bandcamp.com/) (PL), [Kaseciarz](https://kaseciarz.bandcamp.com/) (PL), [Oxford Drama](https://oxforddrama.bandcamp.com/) (PL), [Hugayz](https://plusztapes.bandcamp.com/album/hugz-and-kissez) (PL), [Strangers In My House](https://strangersinmyhouse.bandcamp.com/) (PL), Angry Sad Boys (PL), [The Band of the Endless Noise](https://bandlessnoise.bandcamp.com/) (PL), [Why Bother?](https://whybother666.bandcamp.com/album/s-t) (PL) | [Trupa Trupa](https://photos.app.goo.gl/XayxY2LpeJCGomgK7), [The Underground Youth](https://photos.app.goo.gl/Cup7cnroUJVGdnN98), [Kill Your Boyfriend](https://photos.app.goo.gl/RERoGGSaw8wcYsN47), [Oxford Drama](https://photos.app.goo.gl/kN2PAkLZojNq2thD8), [Strangers In My House](https://photos.app.goo.gl/MMfHDUHN1cGYJqrb7) |
 | _2022_ | [Makthaverskan](https://makthaverskan.bandcamp.com/music) (SE), [Ecstatic Vision](https://www.heavypsychsounds.com/epk/hps228EVEMN/) (US), [Wczasy](https://wczasy.bandcamp.com/releases) (PL), [Kwiaty](https://zespolkwiaty.bandcamp.com/) (PL), [FORMY Planet](https://formyplanet.bandcamp.com/) (PL), [1984](https://www.facebook.com/zespol1984) (PL), [Acid Sitter](https://acidsitter.bandcamp.com/) (PL), [Sneaky Jesus](https://sneakyjesus.bandcamp.com/) (PL), [Gaijin Blues](https://gaijinblues.bandcamp.com/) (PL), [Nac/Hut Report](https://crunchyhumanchildren.bandcamp.com/album/dom-1919) (IT/PL), [Król Słońce](https://www.facebook.com/krolslonce666/) (PL), [See Saw](https://seasaw.bandcamp.com/releases) (PL), DJ Nebaz (PL)  | |
-| _2023_ | [Xiu Xiu](https://en.wikipedia.org/wiki/Xiu_Xiu) (US), [Jozef van Wissem](https://en.wikipedia.org/wiki/Jozef_van_Wissem) (NL), [Tegnaputan](https://tegnaputanband.bandcamp.com/music) (HU/US), [Rita Braga](https://ritabraga.bandcamp.com/album/time-warp-blues), (PT), [Cudowne Lata](https://cudownelata.bandcamp.com) (PL), [The Reptilian Government](https://thereptiliangovernment.bandcamp.com/) (PL) | |
+| _2023_ | [Xiu Xiu](https://en.wikipedia.org/wiki/Xiu_Xiu) (US), [Jozef van Wissem](https://en.wikipedia.org/wiki/Jozef_van_Wissem) (NL), [Tegnaputan](https://tegnaputanband.bandcamp.com/music) (HU/US), [Rita Braga](https://ritabraga.bandcamp.com/album/time-warp-blues), (PT), [Cudowne Lata](https://cudownelata.bandcamp.com) (PL), [The Reptilian Government](https://thereptiliangovernment.bandcamp.com/) (PL), [Zwidy](https://zwidy.bandcamp.com/) (PL), [hage-0](https://hage-o.bandcamp.com/) (PL), [Pagan Idol](https://plusztapes.bandcamp.com/) (PL), Dymny Sour (PL), DJ Nebaz (PL) | |
 
 ## More Information
 
