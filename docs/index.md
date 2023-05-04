@@ -4,10 +4,9 @@ The organizers of this festival are concert promoters from [Front Row Heroes](ht
 
 ## Green Zoo Festival 2023
 
-This year's edition of the Green Zoo Festival will take place at the [Klub RE](https://www.facebook.com/klubre/) venue over the course of three weekends in May. For the very first time, the festival will also take place in the venue's outside cozy beer garden.
+This year's edition of the Green Zoo Festival will take place at the [Klub RE](https://www.facebook.com/klubre/) venue over the course of three weekends in May. For the very first time, the festival will also take place in the venue's outside cozy beer garden. For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/).
 
 ![Green Zoo Festival 2023 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2023Small.jpg  "Green Zoo Festival 2023 schedule")<br />
-**Note:** For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/).
 
 ## History
 
