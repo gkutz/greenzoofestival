@@ -2,9 +2,9 @@
 
 The organizers of this festival are concert promoters from [Front Row Heroes](https://frontrowheroes.com/en/about-us/) based in Poland. The Green Zoo Festival has direct ties with the [POP Montreal Festival](https://popmontreal.com/) and has hosted many musicians initially showcased at this annual Canadian festival. In addition to the music, the festival provides a means of promotion for upcoming local musicians, includes workshops dedicated to independent music, and is associated with the development of volunteer programs.
 
-## Green Zoo Festival 2022
+## Green Zoo Festival 2023
 
-![Green Zoo Festival 2022 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2022Small.jpg  "Green Zoo Festival 2022 schedule")<br />
+![Green Zoo Festival 2023 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2023Small.jpg  "Green Zoo Festival 2023 schedule")<br />
 **Note:** For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/).
 
 ## History
