@@ -6,7 +6,7 @@ The organizers of this festival are concert promoters from [Front Row Heroes](ht
 
 The legendary [Klub RE](https://www.facebook.com/klubre/) venue will host this year's edition of the Green Zoo Festival over the course of almost three weeks in May. For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/).
 
-![Green Zoo Festival 2024 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2024Small.jpg  "Green Zoo Festival 2024 schedule")<br />
+![Green Zoo Festival 2024 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2024SmallB.jpg  "Green Zoo Festival 2024 schedule")<br />
 
 ## History
 
