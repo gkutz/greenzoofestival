@@ -2,11 +2,11 @@
 
 The organizers of this festival are concert promoters from [Front Row Heroes](https://frontrowheroes.com/en/about-us/) based in Poland. The Green Zoo Festival has direct ties with the [POP Montreal Festival](https://popmontreal.com/) and has hosted many musicians initially showcased at this annual Canadian festival. In addition to the music, the festival provides a means of promotion for upcoming local musicians, includes workshops dedicated to independent music, and is associated with the development of volunteer programs.
 
-## Green Zoo Festival 2024
+## Green Zoo Festival 2025
 
 The legendary [Klub RE](https://www.facebook.com/klubre/) venue will host this year's edition of the Green Zoo Festival over the course of almost three weeks in May. For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/).
 
-![Green Zoo Festival 2024 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZoo2024SmallB.jpg  "Green Zoo Festival 2024 schedule")<br />
+![Green Zoo Festival 2024 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZooFestival2025Small.jpg  "Green Zoo Festival 2024 schedule")<br />
 
 ## History
 
@@ -35,6 +35,7 @@ The following table lists the bands and musicians who performed at each edition 
 | _2022_ | [Makthaverskan](https://makthaverskan.bandcamp.com/music) (SE), [Ecstatic Vision](https://www.heavypsychsounds.com/epk/hps228EVEMN/) (US), [Wczasy](https://wczasy.bandcamp.com/releases) (PL), [Kwiaty](https://zespolkwiaty.bandcamp.com/) (PL), [FORMY Planet](https://formyplanet.bandcamp.com/) (PL), [1984](https://www.facebook.com/zespol1984) (PL), [Acid Sitter](https://acidsitter.bandcamp.com/) (PL), [Sneaky Jesus](https://sneakyjesus.bandcamp.com/) (PL), [Gaijin Blues](https://gaijinblues.bandcamp.com/) (PL), [Nac/Hut Report](https://crunchyhumanchildren.bandcamp.com/album/dom-1919) (IT/PL), [Król Słońce](https://www.facebook.com/krolslonce666/) (PL), [See Saw](https://seasaw.bandcamp.com/releases) (PL), DJ Nebaz (PL)  | 
 | _2023_ | [Xiu Xiu](https://en.wikipedia.org/wiki/Xiu_Xiu) (US), [Jozef van Wissem](https://en.wikipedia.org/wiki/Jozef_van_Wissem) (NL), [Cudowne Lata](https://cudownelata.bandcamp.com) (PL), [Tegnaputan](https://tegnaputanband.bandcamp.com/music) (HU/US), [Rita Braga](https://ritabraga.bandcamp.com/album/time-warp-blues), (PT), [The Reptilian Government](https://thereptiliangovernment.bandcamp.com/) (PL), [Zwidy](https://zwidy.bandcamp.com/) (PL), [Pagan Idol](https://plusztapes.bandcamp.com/) (PL), [hage-0](https://hage-o.bandcamp.com/) (PL), Dymny Sour (PL), DJ Nebaz (PL) | 
 | _2024_ | [Drahla](https://drahla.bandcamp.com/) (UK), [Xeno & Oaklander](https://xenoandoaklander.bandcamp.com/) (US), [Josephine Foster](https://josephinebaker.bandcamp.com/) (US), [Topographies](https://topographies.bandcamp.com/) (US), [Nape Neck](https://napeneck.bandcamp.com/) (UK), Morświn (PL), [Rycerzyki](https://rycerzyki.bandcamp.com/) (PL), [Bruce Waves](https://bbrucewaves.bandcamp.com/) (PT), Jantar (PL), [Willa Kosmos](https://willakosmos.bandcamp.com/) (PL), [Atol Atol Atol](https://atolatolatol.bandcamp.com/) (PL), Soir Noir (PL), DJ Szmal, DJ Ander, [DJ Mojobeat](https://www.facebook.com/profile.php?id=61557009055320), DJ Subpoper | 
+| _2025_ | [Dummy](https://www.instagram.com/notdummy) (US), [Ida The Young](https://idatheyoung.bandcamp.com/) (CZ), [Popular Music](https://thisispopularmusic.bandcamp.com/) (AU), [Siksa](https://siksa.bandcamp.com/) (PL), [Wczasy](https://wczasy.bandcamp.com/) (PL), [Marcel Gidote's Holy Crab](https://www.instagram.com/marcelgidotesholycrab) (CZ), [Wąż](https://wazband.bandcamp.com/) (PL), [Teo Olter Quintet](https://www.instagram.com/teo_olter) (PL), [ńoko](https://nokomusic.bandcamp.com/album/aurora/) (PL), Hermopolis (PL), DJ Nebaz, DJ Das Omen, [DJ Mojobeat](https://www.facebook.com/profile.php?id=61557009055320), DJ Ander | 
 
 ## Festival Highlights
 
@@ -63,7 +64,7 @@ The concerts in each edition of the festival are held at various Kraków venues,
 
 | **Venue**    | **Held concerts in**    | **Address** | **More info** |
 |:-------------|:----------|:-----------|:-----------|
-| [Klub RE](https://www.facebook.com/klubre/) | _2012_, _2013_, _2014_, _2015_, _2016_ (winter), _2016_, _2017_, _2018_, _2019_, _2020_, _2021_ (fall), _2022_, _2023_, _2024_  | ul. św. Krzyża 4 | |
+| [Klub RE](https://www.facebook.com/klubre/) | _2012_, _2013_, _2014_, _2015_, _2016_ (winter), _2016_, _2017_, _2018_, _2019_, _2020_, _2021_ (fall), _2022_, _2023_, _2024_, _2025_  | ul. św. Krzyża 4 | |
 | [Betel Klub](https://www.facebook.com/betelpub/) | _2011_, _2012_, _2013_, _2014_, _2015_, _2016_ (winter), _2016_, _2017_, _2018_, _2019_  | pl. Szczepański 3  |  |
 | [Klub Piękny Pies](https://www.facebook.com/Klub-Pi%C4%99kny-Pies-186177181423533/) | _2011_, _2013_ | ul. Sławkowska 6a | No longer open at this location |
 | [Szpitalna 1](https://www.facebook.com/szpitalna1/) | _2016_, _2016_ (winter) | ul. Szpitalna 1 | |
