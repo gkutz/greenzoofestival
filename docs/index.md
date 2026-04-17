@@ -6,7 +6,12 @@ The organizers of this festival are concert promoters from [Front Row Heroes](ht
 
 The legendary [Klub RE](https://www.facebook.com/klubre/) and [Betel Klub](https://www.facebook.com/betelpub/) venues, joined for the first time by [Poczta Główna](https://www.facebook.com/KlubPocztaGlowna/) will host this year's edition of the Green Zoo Festival across five weeks, from May 1 to May 29. For more information, see [Green Zoo Festival official site](https://greenzoofestival.pl/en/).
 
-![Green Zoo Festival 2026 schedule](https://gkutz.github.io/greenzoofestival/assets/GreenZooFestival2026.jpg  "Green Zoo Festival 2026 schedule")<br />
+<img 
+  src="https://gkutz.github.io/greenzoofestival/assets/GreenZooFestival2026Small.jpg" 
+  alt="Green Zoo Festival 2026 schedule"
+  title="Green Zoo Festival 2026 schedule"
+  width="730">
+<br />
 
 ## History
 
